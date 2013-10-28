@@ -61,6 +61,14 @@ var db = [
     nickname: "Diamond Joe",
     company: "Mayor of Springfield",
     email: "jquimby@springfield.gov"
+  },
+  {
+    guid: "dc7fcea4-7177-4001-a91e-5e7df9c63471",
+    firstName: "Ryan",
+    lastName: "Juve",
+    nickname: "derpta",
+    company: "Mayor of Springfield",
+    email: "jquimby@springfield.gov"
   }
 ];
 
