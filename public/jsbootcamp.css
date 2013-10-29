@@ -8,11 +8,20 @@ body {
 	margin: 0px;
 	padding: 40px 0 20px 0;
 }
-
-.headerSortDown:after {
-
+.header {
+	background: url(bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
 }
 
-.headerSortUp {
+.header .headerSortDown {
+	background: url(desc.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+}
 
+.header .headerSortUp {
+	background: url(asc.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
 }
