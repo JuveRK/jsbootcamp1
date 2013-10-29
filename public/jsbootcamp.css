@@ -16,12 +16,8 @@ body {
 
 .header .headerSortDown {
 	background: url(desc.gif);
-	background-repeat: no-repeat;
-	background-position: center right;
 }
 
 .header .headerSortUp {
 	background: url(asc.gif);
-	background-repeat: no-repeat;
-	background-position: center right;
 }
