@@ -10,3 +10,15 @@ function makeContactRowClickable() {
     window.location.href = newUrl;
   });
 };
+
+function makeTableHeadClickable() {
+	$(".table > thead > tr").click(function() {
+		this.sortByColumn();
+	});
+};
+
+function sortByColumn() {
+ $(".table > thead").click(function() {
+ 	
+ });
+};
