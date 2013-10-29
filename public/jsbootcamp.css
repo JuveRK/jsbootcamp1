@@ -1,9 +1,18 @@
 body {
   padding: 1em 1.5em 1em 1.5em;
 }
+
 .page-header {
 	background: url(struckaxiom.png);
 	background-repeat: repeat;
 	margin: 0px;
 	padding: 40px 0 20px 0;
+}
+
+.headerSortDown:after {
+
+}
+
+.headerSortUp {
+
 }
